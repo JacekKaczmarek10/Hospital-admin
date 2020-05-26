@@ -16,3 +16,13 @@ crm.rest.url=http://localhost:8080/spring-hospital-rest/api/patients
 dct.rest.url=http://localhost:8080/spring-hospital-rest/api/doctors
 
 vis.rest.url=http://localhost:8080/spring-hospital-rest/api/visits
+
+How to run this:
+
+Import project to your IDE as Maven Project e.g Eclipse.
+
+Run application on server.
+
+Now you should be able to open url in browser:
+
+http://localhost:8080/Hospital-admin-app/hospital/home
