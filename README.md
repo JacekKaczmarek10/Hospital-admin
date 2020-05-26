@@ -17,6 +17,8 @@ dct.rest.url=http://localhost:8080/spring-hospital-rest/api/doctors
 
 vis.rest.url=http://localhost:8080/spring-hospital-rest/api/visits
 
+This app uses endpoints from app Hospital
+
 How to run this:
 
 Import project to your IDE as Maven Project e.g Eclipse.
