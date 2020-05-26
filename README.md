@@ -9,6 +9,7 @@ So to use this app first you need import Hospital app.
 
 Here is reason why:
 (Code from Hospital Admin app)
+
 crm.rest.url=http://localhost:8080/spring-hospital-rest/api/patients
 
 dct.rest.url=http://localhost:8080/spring-hospital-rest/api/doctors
